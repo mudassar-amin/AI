@@ -1,0 +1,31 @@
+**Running the Code**
+
+You can use VisualStudio code, google colag or jupyterNotebook.
+
+Before running the code, please make sure you have the following prerequisites installed:
+
+- Python 
+- NumPy 
+- Matplotlib 
+
+**Step 1: Download the Code**
+
+- Download the code.
+
+**Step 2: Set Up the Environment**
+
+- Open a terminal or command prompt.
+- Navigate to the directory where you've downloaded the code using the `cd` command.
+
+**Step 3: Run the Code**
+
+- Execute the code by running the following command:
+
+  ```python your_code_file.py``` 
+
+Replace `your_code_file.py` with the actual filename of your Python script.
+
+**Step 4: View Results**
+
+- Make sure to have a compatible Python environment with the required libraries installed.
+
